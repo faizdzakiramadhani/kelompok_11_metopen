@@ -43,39 +43,21 @@
 
 ## 🔗 Link Website
 🌍 **Website Resmi:**  
-👉 [https://www.namaproduk.com](https://www.namaproduk.com)
+👉 [https://kelompok-11-metopen.vercel.app/](https://kelompok-11-metopen.vercel.app/)
 
 ---
 
 ## 👨‍💻 Profil Tim
 
 ### 👤 Anggota 1
-- **Nama:** Andi Pratama  
-- **Peran:** Project Manager  
-- **Keahlian:** Manajemen Proyek, Analisis Sistem  
-- **Email:** andi@email.com  
+- **Nama:** Faiz Dzaki  
 
 ---
 
 ### 👤 Anggota 2
-- **Nama:** Budi Santoso  
-- **Peran:** Backend Developer  
-- **Keahlian:** API, Database, Security  
-- **Email:** budi@email.com  
+- **Nama:** Kumara Davin Valerian   
 
 ---
 
 ### 👤 Anggota 3
-- **Nama:** Citra Lestari  
-- **Peran:** UI/UX Designer  
-- **Keahlian:** UI Design, UX Research  
-- **Email:** citra@email.com  
-
----
-
-## 📄 Lisensi
-Produk ini dikembangkan untuk keperluan **[akademik / komersial / internal]**.
-
----
-
-✨ *Terima kasih telah menggunakan **Nama Produk*** ✨
+- **Nama:** Akram Farasanto 
